@@ -1,7 +1,7 @@
 # Visualization-Dashboard-with-Python-Streamlit
 
-**Dashboard for visualization of the dataset, we can also upload any other datset and can obtain any chart for any column.
-**we can download chart image 
+**Dashboard for visualization of the dataset, we can also upload any other datset and can obtain any chart for any column.**
+**we can download chart image**
 
 ## Charts
 There are 7 types of charts we can get
