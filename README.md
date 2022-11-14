@@ -18,7 +18,6 @@ There are 7 types of charts we can get
 
 ![Data_visualization_Dashboard_GIF](https://user-images.githubusercontent.com/111117591/201733387-336ffe18-6c73-4588-b1d9-d49c72857b29.gif)
 
-https://user-images.githubusercontent.com/111117591/201733622-d918ba60-5ae7-4b2d-8547-c0f92978d00e.mp4
 
 # Run
 Start the dasboard:
