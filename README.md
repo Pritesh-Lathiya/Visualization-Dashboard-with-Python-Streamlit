@@ -14,7 +14,7 @@ There are 7 types of charts we can get
 7. Histogram
 
 
-#Demo
+# Demo
 
 
 ![Uploading Data_visualization_Dashboard_GIF.gif…]()
