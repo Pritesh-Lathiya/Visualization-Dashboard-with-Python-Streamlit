@@ -16,7 +16,8 @@ There are 7 types of charts we can get
 
 # Demo
 
-[ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/111117591/201734990-8955b041-4458-441b-975b-54f605c6981b.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/111117591/201735717-4a4c72a9-4bc9-487d-a321-6d721feb14ad.gif)
+
 
 
 # Run
