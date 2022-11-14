@@ -3,7 +3,7 @@
 - **Dashboard for visualization of the dataset, we can also upload any other datset and can obtain any chart for any column.**
 - **we can download chart image**
 
-## Charts
+# Charts
 There are 7 types of charts we can get
 1. Bar chart
 2. Pie chart
@@ -13,6 +13,9 @@ There are 7 types of charts we can get
 6. Distribution Plot
 7. Histogram
 
+
+#Demo
+![Uploading Data_visualization_Dashboard_GIF.gif…]()
 
 # Run
 Start the dasboard:
