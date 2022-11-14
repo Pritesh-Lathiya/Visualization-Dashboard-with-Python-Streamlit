@@ -15,6 +15,8 @@ There are 7 types of charts we can get
 
 
 #Demo
+
+
 ![Uploading Data_visualization_Dashboard_GIF.gif…]()
 
 # Run
