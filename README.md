@@ -24,4 +24,4 @@ There are 7 types of charts we can obtain
 Start the dasboard:
 
 - `cd app`
-- `streamlit run dashboard.py`
+- `streamlit run Dataframe.py`
