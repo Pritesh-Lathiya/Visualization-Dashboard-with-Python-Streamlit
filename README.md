@@ -1,6 +1,6 @@
 # Visualization Dashboard with Python - Streamlit
 
-- **Dashboard for visualization of the dataset, we can also upload any other datset and can obtain any chart for any column.**
+- **Dashboard for visualization of the dataset, we can also upload any other datset and can obtain any following charts for any column.**
 
 - **we can download chart image**
 
